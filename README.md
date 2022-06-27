@@ -1,7 +1,8 @@
 
 
-😊 Hello, Everyone!
-I am Senior Full-Stack Web Developer with Strongest high skills.
+😊 Hello, Everyone! 
+
+I am Senior Full-Stack Developer with Strongest high skills.
 I'm a passionate web & blockchain developer who is early adaptive and follows a trend always.
 I've got 8+ years experience of developing web/app applications.
 
@@ -47,3 +48,4 @@ Looking forward to working with you in a long term.
 
 Thank you!
 Best Regard!
+From FUTURE-2022
