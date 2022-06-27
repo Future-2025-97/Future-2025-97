@@ -5,27 +5,36 @@ I am Senior Full-Stack Web Developer with Strongest high skills.
 I'm a passionate web & blockchain developer who is early adaptive and follows a trend always.
 I've got 8+ years experience of developing web/app applications.
 
+
 My strongest skills are:
 
-    ✔️ Blockchain, Javascript, Python
-
-    ✔️ Frontend Javascript Frameworks(React, Next, Typescript, Angular, Vue)
-
-    ✔️ Backend development (PHP/Laravel, NodeJs/ExpressJs, Django, Flask)
-
-    ✔️ Unity 3D Model Buildikng, Unity 3D Designer, Unity 3D Animation 
-
-    ✔️ PHP Frameworks(Laravel, Codeignitor, CakePHP, Yii/Yii2, etc)
-
-    ✔️ Artificial intelligence(Machine learning, Deep learning, CNN, RNN)
-
-    ✔️ Microsoft Application development(.NET/Asp.net/.NET MVC)
-
-    ✔️ Several web services (Web scrapping, amazon web service, firebase and so on)
-
-    ✔️ CMS(Wordpress, Zoomla, Drupal)
-
-    ✔️ E-Commerce(Shopify, Opencart, Magento, WooCommerce)
+     ✔️ React.js, Vue.js, Antular.js, Next.js, Typescript.js and so on (Frontend)
+     
+     ✔️ PHP/Laravel, Node.js/Express.js, Django, Flask (Backend)
+     
+     ✔️ Ethereum, Solana, Binance Smart Chain(BSC), Polygon
+     
+     ✔️ Solidity, Rust, Web3
+     
+     ✔️ Token ( ERC20... | BEP20... )
+     
+     ✔️ Smart Contracts ( Solidity | Rust )
+     
+     ✔️ NFT ( Pre-sale | Mint | Marketplace | Stake )
+     
+     ✔️ DeFi/DEX ( Forking Olympus Dao | Pancakeswap )
+     
+     ✔️ Fund Token for trading expert
+     
+     ✔️ ICO & IDO
+     
+     ✔️ C/C++
+     
+     ✔️ Unity 3D, Game development, 3D modeling
+     
+     ✔️ PHP Frameworks(Laravel, Codeignitor, CakePHP, Yii/Yii2, etc)     
+     
+     ✔️ MongoDB, MySQL
 
 From requirement analysis, architect design, db modeling to frontend/backend coding and maintenance, I provide 100% reliable service.
 
