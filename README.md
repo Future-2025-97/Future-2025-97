@@ -1,5 +1,5 @@
 
-<h2><span>😊 </span>Hello, Everyone!</h2> 
+<h2><span> </span>Hi, there!👋</h2> 
 
 
 <a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
@@ -94,6 +94,5 @@ From requirement analysis, architect design, db modeling to frontend/backend cod
 I work full time day and night. 8+ hours a day, 6 days a week.
 Looking forward to working with you in a long term.
 
-Thank you!
-Best Regard!
+Kindly Regard!
 FUTURE-2022
