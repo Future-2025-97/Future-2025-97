@@ -1,18 +1,22 @@
 
-<h2> Hi, there! <span style="padding-left: 25px">👋</span></h2> 
+<h1> Hi, there! <span style="padding-left: 25px">👋</span></h1> 
+
+<h3>🔍 Where to find me</h3>
+<p><a href="https://blog.aoaoao.me" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a> <a href="https://github.com/HFO4" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Future-2022/new/blob/main/pngwing.com.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Future-2022/new/blob/main/pngwing.com.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/Future-2022/new/blob/main/pngwing.com.png" width="250px" height="150px" align="right">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/Future-2022/new/blob/main/pngwing.com.png" width="400px" height="250px" align="right">
 </picture>
 
 
 I am <strong className='text-info'>Senior Blockchain and Web Developer</strong> with Strongest high skills.
 I'm a passionate web & blockchain developer who is early adaptive and follows a trend always.
-As a Blockchain Developer, I have been providing Blockchain and cryptocurrency consulting services to clients around the world. I am a firm believer that technology can be used to promote equality, transparency, and freedom.
+As a Blockchain Developer. I am a firm believer that technology can be used to promote equality, transparency, and freedom.
 
-I have an in-depth knowledge of blockchain technology and its potential applications. My expertise lies in developing smart contracts, initial coin offerings (ICO), decentralized applications (Dapps) and token protocols. I am also proficient in Solidity and Ethereum Virtual Machine (EVM).
+My expertise lies in developing smart contracts, initial coin offerings (ICO), decentralized applications (Dapps) and token protocols. I am also proficient in Solidity and Ethereum Virtual Machine (EVM).
 
 I'm passionate about blockchain, and I think the technology stands to be at the forefront of many industries. My favorite part of developing is always brainstorming the next big idea and then making it a reality. I'm also happy to help you come up with that next big idea.
 
