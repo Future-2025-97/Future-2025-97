@@ -27,8 +27,11 @@
 
 I am <strong className='text-info'>Senior Blockchain and Web Developer</strong> with Strongest high skills.
 I'm a passionate web & blockchain developer who is early adaptive and follows a trend always.
+As a Blockchain Developer, I have been providing Blockchain and cryptocurrency consulting services to clients around the world. I am a firm believer that technology can be used to promote equality, transparency, and freedom.
 
-I've got 8+ years experience of developing web/app applications.
+I have an in-depth knowledge of blockchain technology and its potential applications. My expertise lies in developing smart contracts, initial coin offerings (ICO), decentralized applications (Dapps) and token protocols. I am also proficient in Solidity and Ethereum Virtual Machine (EVM).
+
+I'm passionate about blockchain, and I think the technology stands to be at the forefront of many industries. My favorite part of developing is always brainstorming the next big idea and then making it a reality. I'm also happy to help you come up with that next big idea.
 
 
 My strongest skills are:
