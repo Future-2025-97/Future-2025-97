@@ -59,3 +59,23 @@ I work full time day and night. 8+ hours a day, 6 days a week.
 Looking forward to working with you in a long term.
 
 Kindly Regard!
+
+
+server_name ***  www.***;
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		try_files $uri /index.html;
+
+	}
+
+	location /api {
+        	proxy_pass http://localhost:5000/api;
+        	proxy_http_version 1.1;
+        	proxy_set_header Upgrade $http_upgrade;
+        	proxy_set_header Connection 'upgrade';
+        	proxy_set_header Host $host;
+        	proxy_cache_bypass $http_upgrade;
+  }
+
